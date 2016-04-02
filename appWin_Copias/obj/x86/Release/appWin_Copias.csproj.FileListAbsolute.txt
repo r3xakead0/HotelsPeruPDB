@@ -1,6 +1,0 @@
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\bin\Release\appWin_Copias.exe.config
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\bin\Release\appWin_Copias.exe
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\bin\Release\appWin_Copias.pdb
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\obj\x86\Release\appWin_Copias.exe
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\obj\x86\Release\appWin_Copias.pdb
-D:\SUMMIT\WESTIN\03.construccion\PDBSunat\appWin_Copias\obj\x86\Release\appWin_Copias.csprojResolveAssemblyReference.cache

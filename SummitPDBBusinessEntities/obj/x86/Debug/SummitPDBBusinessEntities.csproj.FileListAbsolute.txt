@@ -1,0 +1,8 @@
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\bin\Debug\SummitPDBBusinessEntities.exe
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\bin\Debug\SummitPDBBusinessEntities.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\SummitPDBBusinessEntities.Properties.Resources.resources
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\SummitPDBBusinessEntities.exe
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBBusinessEntities\obj\x86\Debug\SummitPDBBusinessEntities.pdb

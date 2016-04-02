@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="appWin_PDB.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strRuta" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\SUMMIT\WESTIN\03.construccion\ArchivosPDB\Destino\</Value>
+    </Setting>
+    <Setting Name="ConeccionSQL" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=XURFER01;Initial Catalog=PDBSUNAT_TEST;Persist Security Info=True;User ID=sa;Password=bethoven&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=XURFER01;Initial Catalog=PDBSUNAT_TEST;Persist Security Info=True;User ID=sa;Password=bethoven</Value>
+    </Setting>
+    <Setting Name="strUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jhorna</Value>
+    </Setting>
+    <Setting Name="strpw" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="strRutaResults" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\SUMMIT\WESTIN\03.construccion\ArchivosPDB\Resultados\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

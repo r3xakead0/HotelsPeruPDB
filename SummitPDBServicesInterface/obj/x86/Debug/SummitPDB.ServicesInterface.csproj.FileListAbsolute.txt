@@ -1,0 +1,163 @@
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Tools.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+E:\Disco D - Antiguo\Gestion de Incidencias\REQUERIMIENTOS\Summit\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Tools.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csprojResolveAssemblyReference.cache
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csproj.GenerateResource.Cache
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+D:\SUMMIT\WESTIN\SummitPDBSolution\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Tools.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.Unity.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+D:\EchambiSource\05022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Tools.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+D:\PDB\07022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\Tools.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+E:\12022013\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+E:\12022013\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+D:\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+D:\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csprojResolveAssemblyReference.cache
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csproj.GenerateResource.Cache
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb
+D:\SUMMIT\WESTIN\03.construccion\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ServicesInterface.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessLogic.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.ExceptionManagment.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.BusinessEntities.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\SummitPDB.DataAccess.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\bin\Debug\Tools.pdb
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csprojResolveAssemblyReference.cache
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.Properties.Resources.resources
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.csproj.GenerateResource.Cache
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.dll
+C:\Users\Afu Tse\Desktop\PDBSunat\SummitPDBServicesInterface\obj\x86\Debug\SummitPDB.ServicesInterface.pdb

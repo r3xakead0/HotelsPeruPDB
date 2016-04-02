@@ -1,0 +1,33 @@
+Estimado Renzo,
+
+Te envio la lista de puntos a corregir en hospedaje.
+
+HOSPEDAJE
+
+1.- La ventana de agregar en unidad debe tener el descriptivo de la unidad de Negocio en comnbo, en la grilla, el descriptivo de la unidad de negocio y al exportar el codigo de la unidad.
+2.- EL Hotel en Hospedaje debe filtrar por unidad de negocio, en unidad de negocio poner la descripcion de la unidad de negocioen el cod de local, reemplazar por el codigo de local correcto según excel, ocultar cod.local,cod. Periiodo y visible.
+3.- Revisar que en hospedaje hotel lo filtre - Ok
+12.- Se debe poder buscar por línea.
+5.- El check de validado solo debe evitar la validacion de los 15 días mas no la validacion total.
+10.- Validar si se esta filtrando la columna por Abril. ---- la validacion se hace por periodo no por meses
+7.- En la cabecera de la duplicacion poner la fecha del documento.
+13.- En la validacion de ficha no puede tener como dato 00000
+6.- Cuando se hace duplicacion , el detalle duplicado debe pasar con el check de validado.
+16.- Un archivo solo se puede una vez, si ya esta correcto.
+
+14.- La agencia ni el RUC son obligatorios para la validacion, pero si si existe RUC debe pedirme agencia y si tiene agencia me debe pedir RUC.
+9.- El rango de fechas por fecha de documento.
+4.- Validacion de Casillas en la agregación.
+
+
+
+11.- La Validacion es por todos los meses, en la duplicacion se puede enviar data de un mes cerrado a uno abierto, pero no a la inversa, jugar con la habilitacion del boton.
+15.- Detalle de documentos diferentes y cuales son en un popup.
+
+
+
+
+
+
+Slds,
+

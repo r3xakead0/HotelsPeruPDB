@@ -1,0 +1,237 @@
+﻿/* Estilos  para GridView */
+/*estilo para cabecera popup*/
+.headertable
+{
+	background:#f9f9f9 url(../files/white-top-bottom.gif) repeat-x;
+    color:#15428B;
+	text-align:left;
+	line-height:15px;
+	font-size:11px;
+	font-weight:bold;
+	padding-top:4px;
+	padding-left:4px;
+	font-family:tahoma,arial,verdana,sans-serif;
+	border:1px solid #000000;
+
+}
+/* fin estilo para cabecera popup*/	
+	
+	
+	
+.gridcontainer  
+{
+/*    border-width:1px;
+    border-color:#000000;*/
+    border: solid 1px #000000;
+    border-top-width:0px;
+    width: 75%;
+    
+}
+.grid 
+{
+	/*border-color:#5D7B9D;*/
+	border: solid 1px #000000;
+	font-weight:bold;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 11px;
+    line-height: normal;
+    font-family: arial, tahoma, helvetica, sans-serif;
+}
+.grid th
+{
+	font-weight:normal;
+    background-color:#000000;
+	color:#FFFFFF
+}
+.grid caption {
+	background:#f9f9f9 url(../files/white-top-bottom.gif) repeat-x;
+    color:#15428B;
+	text-align:left;
+	line-height:22px;
+	font-size:11px;
+	font-weight:bold;
+	padding-top:4px;
+	padding-left:4px;
+	font-family:tahoma,arial,verdana,sans-serif;
+	 
+}
+
+.grid table 
+{
+	/*border-color:-moz-use-text-color #000000;*/
+	border-width:1px;
+}
+.grid .hide
+{
+    display:none;
+    }
+	
+.grid td, .grid th
+{
+    height:18px;
+    vertical-align:middle;
+      
+}
+
+.grid th
+{
+	/*background:transparent url(../files/grid-hrow-over.gif) repeat-x;*/
+    height:18px;
+    border:solid 1px #000000;
+    font-weight:normal;
+}
+
+.grid td
+{
+	border:1px solid #ededed;
+    border-top-color:#fff;
+    /*width:50px;*/
+
+}
+.grid .datatable .row:hover
+{
+	background-color:#000000;
+	color:#000;
+}
+/* ------------------------------------------------------------------------ */
+/* Estilos para Select */
+.SelectedRow 
+{
+	/*background: #DFE8F6;
+	background:#2B83D0;
+	color:#ffffff;*/
+	border:1px dotted #A3BAE9;
+	background-color:#1294d1;
+	color:#FFFFFF;
+}
+
+.SelectedRow:hover
+{
+    background-color:#848484;
+    color:#FFFFFF;
+    font-weight:bold;
+}
+
+.altrowstyle 
+{
+	background-color:#fafafa;
+}
+
+.altoverowstyle
+{
+	border:solid 1px #000000;
+    background: #efefef url(../files/row-over.gif) repeat-x left top;
+}
+/* ------------------------------------------------------------------------ */
+
+/* Estilos para Data Pager */
+.grid TR.pager-row TD
+{
+    border-top:solid 2px #bbd9ee;
+}
+.grid .pager
+{
+    font-family:arial,sans-serif;
+    text-align:center;
+    padding:6px;	
+    font-size:18px;
+} 
+.grid .pager SPAN.command,        
+.grid .pager SPAN.current,        
+.grid .pager A.command,
+.grid TR.pager-row TD A
+{
+    color:#5a90ce;
+    padding:0px 5px;
+    text-decoration:none;
+    border:none;
+}
+.grid .pager A.command:hover,
+.grid TR.pager-row TD A:hover
+{
+    border:solid 2px #408BB6;
+    background-color:#59A5D1;
+    color:#fff;
+    padding:0px 3px;
+    text-decoration:none;
+}        
+.grid .pager SPAN.current,
+.grid TR.pager-row TD SPAN
+{
+	border:none;
+    font-weight:bold;
+    color:#3e3e3e;
+    padding:0px 6px;
+}
+.grid TR.pager-row TD
+{
+	border-top:none;
+	text-align:center;
+}
+.grid TR.pager-row TABLE
+{
+	height:35px;
+	margin:0 auto 0 auto;
+}
+/* -----------------------------------------------*/
+
+
+
+.gridth
+{
+	/*background:transparent url(../files/grid-hrow-over.gif) repeat-x;*/
+    height:18px;
+    border:solid 1px #000000;  
+    font-weight:normal;
+    font:normal 11px arial, tahoma, helvetica, sans-serif;
+}
+
+.gridcaption
+{
+	background:#f9f9f9 url(../files/white-top-bottom.gif) repeat-x;
+    color:#15428B;
+	text-align:left;
+	line-height:22px;
+	font-size:11px;
+	font-weight:bold;
+	padding-top:4px;
+	padding-left:4px;
+	font-family:tahoma,arial,verdana,sans-serif;
+}
+
+.Esconder
+{
+	zoom:1%;
+}
+
+
+.gridGeologia 
+{
+	/*border-color:#5D7B9D;*/
+	border-width:0px;
+	width: 100%; 
+	border: solid 1px #000000;
+	font:normal 11px arial, tahoma, helvetica, sans-serif;
+	font-weight:normal;
+}
+.RowGreen
+{
+    color:#ffffff ;  
+   background-color:#008000;/* Green ;*/
+}
+
+.RowRed
+{
+   color:#ffffff ;
+   background-color:#ff0000;
+
+}
+
+.GVFixedHeader { font-weight:bold; background-color: Green; position:relative; 
+             top:expression(this.parentNode.parentNode.parentNode.scrollTop-1);}
+
+
+
+
+

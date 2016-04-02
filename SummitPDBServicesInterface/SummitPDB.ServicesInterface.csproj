@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ECA19E40-BB51-4C73-A23C-022BB0D7FDD6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SummitPDB.ServicesInterface</RootNamespace>
+    <AssemblyName>SummitPDB.ServicesInterface</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ICompras.cs" />
+    <Compile Include="IConceptos.cs" />
+    <Compile Include="IEstado.cs" />
+    <Compile Include="IExportar.cs" />
+    <Compile Include="ITipo_Cambio.cs" />
+    <Compile Include="IVentas.cs" />
+    <Compile Include="IHotels.cs" />
+    <Compile Include="IImportarArchivos.cs" />
+    <Compile Include="ILocal.cs" />
+    <Compile Include="IPeriodos.cs" />
+    <Compile Include="IReglas.cs" />
+    <Compile Include="IUsers.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SummitPDB.BusinessLogic\SummitPDB.BusinessLogic.csproj">
+      <Project>{16AA290B-8845-49D6-9BD6-4F4E46788CE5}</Project>
+      <Name>SummitPDB.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SummitPDB.ExceptionManagment\SummitPDB.ExceptionManagment.csproj">
+      <Project>{E6318307-CED5-440E-843A-6DB80855C07B}</Project>
+      <Name>SummitPDB.ExceptionManagment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SummitPDBBusinessEntities\SummitPDB.BusinessEntities.csproj">
+      <Project>{2B5EDAB2-E9DF-46FF-A871-3287857A7EBB}</Project>
+      <Name>SummitPDB.BusinessEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SummitPDBDataAccess\SummitPDB.DataAccess.csproj">
+      <Project>{3879642B-4935-40A1-A7A5-26C8EF23B3E8}</Project>
+      <Name>SummitPDB.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tools\SummitPDB.Tools.csproj">
+      <Project>{4C55D7E5-5403-4C50-8AF5-07A22CC16DEB}</Project>
+      <Name>SummitPDB.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
